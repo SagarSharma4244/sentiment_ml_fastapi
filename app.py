@@ -21,4 +21,4 @@ async def root():
 
 app.include_router(api_router,prefix="/api/v1")
 
-# hypercorn main:app --reload
+# gunicorn app:app --reload

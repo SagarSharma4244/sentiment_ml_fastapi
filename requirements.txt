@@ -1,9 +1,9 @@
 click==7.1.2
 fastapi==0.63.0
+gunicorn==20.1.0
 h11==0.12.0
 h2==4.0.0
 hpack==4.0.0
-Hypercorn==0.11.2
 hyperframe==6.0.1
 joblib==1.0.1
 nltk==3.6.1
