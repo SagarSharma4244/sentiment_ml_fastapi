@@ -21,4 +21,4 @@ async def root():
 
 app.include_router(api_router,prefix="/api/v1")
 
-# gunicorn app:app --reload
+# uvicorn app:app --reload
