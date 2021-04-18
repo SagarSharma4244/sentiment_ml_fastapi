@@ -52,4 +52,4 @@ uvicorn==0.13.4
 Werkzeug==1.0.1
 wrapt==1.12.1
 wsproto==1.0.0
-image-recogination-renet-50
+uvloop==0.14.0
